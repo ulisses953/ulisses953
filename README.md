@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**ulisses953/ulisses953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Ulisses! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Atualmente estou estudando na area de Back-End, onde estou estudando Java e o Framework Spring  
+
+## 🛠 Habilidades
+Java,Spring,PostgreSQL,C#,Delphi
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisses-kranz-da-motta-742776217/)
+
+
+
+## Outras seções comuns em perfis do GitHub
+
+🧠 Estou aprendendo Spring
+
+👯‍♀️ Procuro colaborar em projetos Java
+
+📫 Como entrar em contato por meio do Linkedin ou pelo E-mail
+
